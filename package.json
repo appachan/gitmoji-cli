@@ -50,7 +50,7 @@
     "inquirer-autocomplete-prompt": "^1.0.1",
     "meow": "^8.0.0",
     "node-fetch": "^2.6.0",
-    "ora": "^5.0.0",
+    "ora": "^6.0.0",
     "path-exists": "4.0.0",
     "update-notifier": "^5.0.0"
   },
